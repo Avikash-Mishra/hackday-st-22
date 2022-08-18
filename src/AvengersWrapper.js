@@ -1,5 +1,4 @@
 import React from "react";
-import Card from "./Card";
 import CardGrid from "./CardGrid";
 export default function AvengersWrapper({ avenger }) {
   // const cells = avengers.characters.map((obj, i) => (

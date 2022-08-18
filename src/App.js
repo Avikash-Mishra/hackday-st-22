@@ -1,7 +1,4 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Card from "./Card";
-import CardGrid from "./CardGrid";
 import AvengersWrapper from "./AvengersWrapper";
 
 function getData() {
