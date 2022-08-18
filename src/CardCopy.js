@@ -1,5 +1,4 @@
 import React from "react";
-import styled from "styled-components";
 import ReactCardFlip from "react-card-flip";
 
 export default function CardCopy({ card, index }) {
